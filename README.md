@@ -44,8 +44,8 @@ It helps stakeholders track sales trends, monitor profitability, and understand 
 ---
 
 ### 📸 Dashboard Preview
-![E-commerce Dashboard]([Dashboard/Dashboard_1.png](https://github.com/vishalmotirale/E-Commerce-Analysis-and-Dashboard-Project/blob/main/E-commerce%20Dashboard/Dashboard/Dashboard_1.png))
-![E-commerce Dashboard]([Dashboard/Dashboard_2.png](https://github.com/vishalmotirale/E-Commerce-Analysis-and-Dashboard-Project/blob/main/E-commerce%20Dashboard/Dashboard/Dashboard_2.png))
+![E-commerce Dashboard](https://github.com/vishalmotirale/E-Commerce-Analysis-and-Dashboard-Project/blob/main/E-commerce%20Dashboard/Dashboard/Dashboard_1.png)
+![E-commerce Dashboard](https://github.com/vishalmotirale/E-Commerce-Analysis-and-Dashboard-Project/blob/main/E-commerce%20Dashboard/Dashboard/Dashboard_2.png)
 
 ---
 
@@ -58,8 +58,8 @@ It helps stakeholders track sales trends, monitor profitability, and understand 
 ---
 
 ### 📄 Download Project Files
-- 📊 [Ecommerce_Dashboard.pbix]([Dashboard/E-commerce_dashboard.pbix](https://github.com/vishalmotirale/E-Commerce-Analysis-and-Dashboard-Project/blob/main/E-commerce%20Dashboard/Dashboard/E-commerce%20dashboard.pbix))  
-- 🧾 [Ecommerce_Insights.pdf]([Report_Insights/Ecommerce_Insights.pdf](https://github.com/vishalmotirale/E-Commerce-Analysis-and-Dashboard-Project/blob/main/E-commerce%20Dashboard/Report_Insights/Ecommerce_Insights.pdf))  
+- 📊 [Ecommerce_Dashboard.pbix](https://github.com/vishalmotirale/E-Commerce-Analysis-and-Dashboard-Project/blob/main/E-commerce%20Dashboard/Dashboard/E-commerce%20dashboard.pbix)
+- 🧾 [Ecommerce_Insights.pdf](https://github.com/vishalmotirale/E-Commerce-Analysis-and-Dashboard-Project/blob/main/E-commerce%20Dashboard/Report_Insights/Ecommerce_Insights.pdf)  
 
 *(If your PBIX file is too large, upload it to Google Drive or OneDrive and replace these links with sharing URLs.)*
 
@@ -78,7 +78,7 @@ The dataset used in this project includes:
 **Vishal Motirale**  
 Data Analyst | Power BI | SQL | Python  
 📧 vishalmotirale111@gmail.com
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/vishal-motirale-9a96071b4/))  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/vishal-motirale-9a96071b4/)
 
 ---
 
