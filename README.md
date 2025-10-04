@@ -78,7 +78,7 @@ The dataset used in this project includes:
 **Vishal Motirale**  
 Data Analyst | Power BI | SQL | Python  
 📧 vishalmotirale111@gmail.com
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/vishal-motirale-9a96071b4/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/vishal-motirale-9a96071b4/)
 
 ---
 
